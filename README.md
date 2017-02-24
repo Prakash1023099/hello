@@ -1,2 +1,2 @@
-# hello
-just for fun
+hello world 
+new to git hub
